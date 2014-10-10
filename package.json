@@ -10,6 +10,13 @@
     "name": "Victor Portnov",
     "email": "vic.portnov@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:VicNumber21/grunt-artifatory-fetcher.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VicNumber21/grunt-artifatory-fetcher/issues"
+  },
   "keywords": [
     "grunt",
     "artifactory"
