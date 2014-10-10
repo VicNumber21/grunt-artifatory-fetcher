@@ -1,0 +1,25 @@
+{
+  "name": "grunt-artifactory-fetcher",
+  "version": "0.0.1",
+  "description": "Simple JFrog Artifactory fetcher",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Victor Portnov",
+    "email": "vic.portnov@gmail.com"
+  },
+  "keywords": [
+    "grunt",
+    "artifactory"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "q": "~1.0.1",
+    "request": "~2.45.0"
+  },
+  "readme": "# grunt-artifactory-fetcher\n\n> Idea is taken from grunt-artifactory-artifact by David Lee\n",
+  "readmeFilename": "README.md"
+}
